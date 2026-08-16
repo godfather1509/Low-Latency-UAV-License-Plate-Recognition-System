@@ -1,0 +1,4 @@
+Timestamp,CapturedFrames,ExpectedFrames,FPS,Latency_ms,FrameDrop_%
+05:03:18,61,75.0,12.20,77.25,18.68
+05:03:23,64,75.3,12.76,78.40,14.96
+05:03:28,65,76.1,12.81,79.12,14.61

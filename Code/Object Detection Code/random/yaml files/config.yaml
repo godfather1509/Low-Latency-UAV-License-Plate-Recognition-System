@@ -1,0 +1,7 @@
+path: C:/Users/ayush/OneDrive/Desktop/major project/quadcopter/Code/Object Detection Code/Data # dataset root dir
+train: License Plate Recognition/train/images  # train images (relative to 'path')
+val: License Plate Recognition/valid/images  # val images (relative to 'path')
+
+# Classes
+names:
+  0: license_plate # this is the name of the thing yoou are detecting in images

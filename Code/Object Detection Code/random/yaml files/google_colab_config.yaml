@@ -1,0 +1,7 @@
+path: '/content/gdrive/MyDrive/Major project/quadcopter/Code/Data/License Plate Recognition' # dataset root dir
+train: train/images  # train images (relative to 'path')
+val: valid/images  # val images (relative to 'path')
+
+# Classes
+names:
+  0: license_plate

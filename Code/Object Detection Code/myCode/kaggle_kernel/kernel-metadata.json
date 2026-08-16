@@ -1,0 +1,16 @@
+{
+  "id": "ayushgupta1509/license-plate-yolov8-retraining-kernel",
+  "title": "License Plate Yolov8 Retraining Kernel",
+  "code_file": "train.py",
+  "language": "python",
+  "kernel_type": "script",
+  "is_private": true,
+  "enable_gpu": true,
+  "enable_internet": false,
+  "dataset_sources": [
+    "ayushgupta1509/license-plate-recognition"
+  ],
+  "competition_sources": [],
+  "kernel_sources": [],
+  "tier": "GPU"
+}
